@@ -8,6 +8,6 @@ read filepath
 
 mplayer $url -ao pcm:file\=$filepath -vc dummy -vo null &
 taskpid=$!
-sleep `echo $record\m`
+sleep `echo $record`m
 kill $taskpid
 
