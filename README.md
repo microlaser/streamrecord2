@@ -10,7 +10,7 @@ I built this to reliably capture orchestral broadcasts for offline listening. Ex
 
 ## 🎼 Why This Exists
 
-:contentReference[oaicite:1]{index=1} streams high-quality classical performances, including broadcasts from the Philadelphia Orchestra.
+WRTI streams high-quality classical performances, including broadcasts from the Philadelphia Orchestra.
 
 These streams are ephemeral—once they’re gone, they’re gone.
 
