@@ -4,7 +4,7 @@
 
 `streamrecord2` is a lightweight script designed to record live audio streams from WRTI (Philadelphia’s classical and jazz radio station).
 
-I built this to reliably capture orchestral broadcasts for offline listening. Existing tools were either unreliable, overcomplicated, or broke on stream changes—so I wrote a simple, controlled solution from scratch.
+I built this to reliably capture orchestral broadcasts for offline listening. Existing tools were either unreliable, overcomplicated, or broke on stream changes—so I wrote a simple, controlled solution from scratch.  Please note this is Linux only and you must have mplayer installed for it to work.  
 
 ---
 
